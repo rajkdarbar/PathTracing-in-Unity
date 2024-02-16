@@ -4,6 +4,6 @@
 
 - This project features a GPU-accelerated path tracer designed to render scenes with planes and multiple spheres. It supports diffuse global illumination, glossy reflections, and soft shadows.
 
-- Check out this demo video, showcasing the project on an NVIDIA GeForce RTX 3070 Laptop GPU.
+- Check out this [demo video](https://youtu.be/wqx17V85RkM), showcasing the project on an NVIDIA GeForce RTX 3070 Laptop GPU.
   
 ![Image](https://github.com/rajkdarbar/PathTracing-in-Unity/blob/main/Assets/Resources/Output%20Images/PathTracing_Img_01.png)
